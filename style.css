@@ -193,7 +193,7 @@
     display: none;
     flex-direction: column;
     gap: 10px;
-    background: var(--primary);
+    background: #003366;
     position: absolute;
     top: 60px;
     right: 20px;
